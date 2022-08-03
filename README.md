@@ -4,5 +4,3 @@ Bu projede ilk web sayfasının oluşturulması için gerekli adımları attım.
 araştırmalar yaptım.
 
 ![image](ilk web sayfam.png)
-
-
