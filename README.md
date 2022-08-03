@@ -3,6 +3,6 @@
 Bu projede ilk web sayfasının oluşturulması için gerekli adımları attım.Bazı hatalarla ile karşılaşarak nasıl çözmem gerektiği ile ilgili
 araştırmalar yaptım.
 
-![image](ilkwebsayfam.png)
+![image](ilk web sayfam.png)
 
 
